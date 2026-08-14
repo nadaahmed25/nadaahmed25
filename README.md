@@ -1,8 +1,6 @@
 # Hi, I am Nada Ahmed
 🎓 ELectronics and Communication Engineering Student
-
 🧠 Passionate about PCB Design , Digital Design , ASIC & VLSI
-
 🤖 I enjoy turning ideas into practical hardware solutions through projects and simulations.
 
 
